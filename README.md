@@ -1,0 +1,1 @@
+# R6C Tournaments Website Official Host Repository
